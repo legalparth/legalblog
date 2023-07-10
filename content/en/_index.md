@@ -1,5 +1,5 @@
 ---
-author: Mark Dumay
+author: Parth Mehrotra
 title: Welcome to Hinode!
 ---
 

@@ -1,5 +1,4 @@
 ---
 author: Parth Mehrotra
-title: Blog
-nested: true
+title: Articles
 ---
