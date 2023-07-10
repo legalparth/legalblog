@@ -16,7 +16,7 @@
 
 # toml-docs-start home
 [home]
-    sections = ["blog", "projects"]
+    sections = ["blog", "articles"]
     featurePhoto = "/img/sunrise.jpg" # source: https://unsplash.com/photos/ZX6BPboJrYk
     fullCover = false
     centerHeadline = false
@@ -52,8 +52,8 @@
         style = "border-0 card-zoom"
         homepage = 3
         separator = true
-    [sections.projects]
-        title = "Projects"
+    [sections.articles]
+        title = "Articles"
         sort = "title"
         reverse = false
         nested = true

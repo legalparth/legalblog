@@ -25,16 +25,16 @@
   translation: "Previous Post"
 - id: nextBlog
   translation: "Next Post"
-- id: recentProjects
-  translation: "Projects"
+- id: recentArticles
+  translation: "Articles"
 - id: moreFeatures
   translation: "More Features"
 - id: moreGuides
   translation: "More Guides"
 - id: moreOpensource
   translation: "More Features"
-- id: moreProjects
-  translation: "More Projects"
+- id: moreArticles
+  translation: "More Articles"
 - id: moreUsers
   translation: "More Users"
 - id: read
